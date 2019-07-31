@@ -1,14 +1,14 @@
 ---
 title: 10天顺利拿下德企Bosch工作合同
 date: 2019-04-30 10:32:11
-tags: 德国生活，报税
+tags: 考官陪你 聚焦德语
  
-cover: /img/德国报税.PNG
+cover: /img/20.jpeg
 
 # 作者信息，多作者则设置为数组
 # 单作者
 author: 
-  nick: 小慧慧
+  nick: 考官陪你 聚焦德语
 
 # 如果文章为转载文章，需要多加文章出处项
 editor:
@@ -17,7 +17,7 @@ editor:
 
 # 首页每篇文章的子标题
 subtitle: 德国报税
-
+category: 工作在德国
 ---
 
 

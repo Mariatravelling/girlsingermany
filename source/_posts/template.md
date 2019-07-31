@@ -1,7 +1,7 @@
 ---
 title: 10天顺利拿下德企Bosch工作合同
 date: 2019-04-30 10:32:11
-tags: 德国生活，报税
+tags: 好姑娘在德国
 cover: /img/德国报税.PNG
 author: 
   nick: 小慧慧

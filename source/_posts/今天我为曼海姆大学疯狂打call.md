@@ -1,15 +1,15 @@
 ---
 title: 今天我为曼海姆大学疯狂打call
 date: 2019-04-30 10:32:11
-tags: 德国生活，报税
-cover: /img/德国报税.PNG
+tags: 好姑娘在德国
+cover: /img/9.jpeg
 author: 
   nick: 小慧慧
 editor:
   name: 小慧慧
   link: https://www.github.com/Mrminfive
 # 首页每篇文章的子标题
-
+subtitle: 德国留学
 category: 德国留学
 ---
 
