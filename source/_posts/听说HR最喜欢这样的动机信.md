@@ -9,7 +9,8 @@ editor:
   name: 小慧慧
   link: https://www.github.com/Mrminfive
 # 首页每篇文章的子标题
-subtitle: 德国报税
+
+category: 工作在德国
 ---
 上篇文章有详细介绍德国劳动局（回顾请戳这 -> [德国劳动局不仅帮找工作，还报销1500欧搬家费](http://mp.weixin.qq.com/s?__biz=MzI0OTE4MTY1Ng==&mid=2649564744&idx=1&sn=a0e9041ab4050e775c3d1675c2042a11&chksm=f18ce2ffc6fb6be99effea12ea4e50cfccd4a4230a2263dcb2b87a6ce84612c47a0b07d04ce7&scene=21#wechat_redirect)），信息量非常大，今天**“周俊”小哥哥**再来着重给大家分享下**如何写出优秀的动机信来**，参考他在参加德国劳动局培训时所学内容，并结合自己找工作经验，倾囊相授写出下文来。
 
@@ -78,11 +79,6 @@ subtitle: 德国报税
   
 
 我们在提炼总结招聘广告的时候就已经是在向HR证明我们读懂了他们的需求，并明确精准地掌握了职位的内容，这就对我们非常有利了。其次，我们用同样的精简的语句描述个人的能力，并且其中有几条和招聘广告里面是相同或者类似，那么就显而易见的证明了，作为申请人我真的很匹配这份工作，这就是最完美的动机！
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIhiap18VNqzhf5r1YkNSibdia9NoqVtbpLibzTrgykBNDSRk3mQ4VQBkQhw/640?wx_fmt=jpeg)
-
   
 
 最后一层，**西方人特别喜欢这样的简明扼要的表达方式，尤其是小标题模式**，左右两边在段落里有足够多的留白，HR甚至连开头结尾都可以跳过就能轻松Get到你是符合他们需求的、你站在他们角度思考、你帮他们省时间、你的领悟力强。
@@ -91,19 +87,11 @@ subtitle: 德国报税
 
 对于日理万机的HR来说，这样不费力气就能看懂、没有连篇累牍开头结尾的动机信是非常讨喜的。你有很大概率能在一堆讲累赘故事的动机信中脱颖而出。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIFeofcRThcZJmtfpKMOTzv8EibsJCSqEDKwCjC6VlQ9GGGCaJMHr3A4A/640?wx_fmt=jpeg)
-
-  
-
 **这种模式的动机信还有一个好处，就是“高效量产”！！！**
 
 每一个职位我们不再需要更改过多的文字，只要将文中那些涉及公司的XX部分更改即可。然后建立一个关于自身技能的“库”，每次申请一个职位时，针对这个职位的需求从“库”中提取几条自己符合的就好了。
 
 如此一来，修改一份动机信的时间降到了最短，投简历的速度将会有一个质的飞跃！
-
-  
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIkCxg5icIPCWlbMicYaEVNDndq1ialkTQWLe1agA1cPn9ibKSQeazn1NzLA/640?wx_fmt=jpeg)
 
   
 
@@ -117,9 +105,9 @@ subtitle: 德国报税
 
 而且最后还能明确知道自己究竟投了多少简历。
 
-  
 
-![](https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIadU2aNnb5OsOXEIfgic6QZZvsY1tBM1XEUs8xEP0qF0MUzzUk2C9OOA/640?wx_fmt=png)
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIadU2aNnb5OsOXEIfgic6QZZvsY1tBM1XEUs8xEP0qF0MUzzUk2C9OOA/640?wx_fmt=png"  style=" display: block; margin: 0 auto;" />
 
   
 
