@@ -11,13 +11,8 @@ editor:
 subtitle: 工作在德国
 category: 工作在德国
 ---
-上篇文章有详细介绍德国劳动局（回顾请戳这 -> [德国劳动局不仅帮找工作，还报销1500欧搬家费](http://mp.weixin.qq.com/s?__biz=MzI0OTE4MTY1Ng==&mid=2649564744&idx=1&sn=a0e9041ab4050e775c3d1675c2042a11&chksm=f18ce2ffc6fb6be99effea12ea4e50cfccd4a4230a2263dcb2b87a6ce84612c47a0b07d04ce7&scene=21#wechat_redirect)），信息量非常大，今天**“周俊”小哥哥**再来着重给大家分享下**如何写出优秀的动机信来**，参考他在参加德国劳动局培训时所学内容，并结合自己找工作经验，倾囊相授写出下文来。
+上篇文章有详细介绍德国劳动局，信息量非常大(大家可以在网站上搜索关键词“德国劳动局”查看)，今天**“周俊”小哥哥**再来着重给大家分享下**如何写出优秀的动机信来**，参考他在参加德国劳动局培训时所学内容，并结合自己找工作经验，倾囊相授写出下文来。
 
-  
-
-  
-
-  
 
 **动机信我学习到的最有用的原则是“技能供需匹配”**
 
@@ -106,7 +101,7 @@ category: 工作在德国
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIadU2aNnb5OsOXEIfgic6QZZvsY1tBM1XEUs8xEP0qF0MUzzUk2C9OOA/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIadU2aNnb5OsOXEIfgic6QZZvsY1tBM1XEUs8xEP0qF0MUzzUk2C9OOA/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 60%; height: 60%; " />
 
   
 
