@@ -53,7 +53,7 @@ autoprefixer:
 # Lunr
 lunr:
   field: all
-  fulltext: false
+  fulltext: true
   path: assets/lunr/
 
 # filter_cleanup

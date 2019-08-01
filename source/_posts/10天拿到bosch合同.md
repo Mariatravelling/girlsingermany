@@ -12,8 +12,7 @@ author:
 
 # 如果文章为转载文章，需要多加文章出处项
 editor:
-  name: 好姑娘在德国
-  link: https://www.github.com/Mrminfive
+  name: 考官陪你 聚焦德语
 
 # 首页每篇文章的子标题
 subtitle: 德国报税

@@ -7,7 +7,6 @@ author:
   nick: 小慧慧
 editor:
   name: 小慧慧
-  link: https://www.github.com/Mrminfive
 # 首页每篇文章的子标题
 subtitle: 工作在德国
 category: 工作在德国
