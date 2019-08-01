@@ -8,9 +8,8 @@ author:
 editor:
   name: 小慧慧
 
-# 首页每篇文章的子标题
-subtitle: 德国留学
-category: 德国留学
+subtitle: 学在德国
+category: 学在德国
 ---
 
 哇哦，快快恭喜我公众号已经出品100篇原创文章啦，第100篇想把它献给**曼海姆大学**，公众号快一年了，总有人在后台咨询我留学问题，但凡有人说想学商科，我会毫不犹豫推荐**曼海姆大学**。我在这里读研两年多，如今毕业一年多还住在曼海姆，感觉自己活脱脱一个Mannheimer。今天就想趁此机会全方位介绍下曼海姆大学（简称**曼大）**，**希望能给想来曼大读书的小伙伴一些参考，也希望能有更多人了解曼海姆大学。**
@@ -43,14 +42,14 @@ category: 德国留学
 
 曼大学习氛围和环境都很好。首先，从生源来看，之前有问过学校的德国学生，他们的本科毕业成绩都蛮高的。和德国学生一起做项目时也发现大多数还是蛮有能力的，他们还有很多人是工作过一两年再继续读研，一边读书一边在原公司做Working Student，工作学习两不误。中国学生的生源也很不错，认识的大多数中国学生在学业上很努力很聪明，很多人刚来德国一学期就能找到各种大公司实习，真是羡煞旁人。大家毕业后也普遍能找到各方面都不错的工作。上课时周围学生都很认真，笔记记得满满当当，大家也很积极回答问题和提问。老师也都认真负责，虽然有些老师也有口音，第一堂课需要适应下，之后也差不多听习惯了自然就懂了。助教在讲练习课时也很有条理，帮助大家更好地掌握知识。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmib2hYlM98zqnzEQYa0ia0bSiax2k04W66kDDrbtDribVOjaTGBJficiaNHT5g/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmib2hYlM98zqnzEQYa0ia0bSiax2k04W66kDDrbtDribVOjaTGBJficiaNHT5g/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
 
 
 
 其次，学校有个“Studium Generalle”组织，每学期会提供很多**免费课程**，比如**语言类课程**，有德语课，法语课等很多种语言。还会提供一些**IT相关的技术课**，比如我之前去上过SPSS实践课，上完后还会发一个证书（虽然并没有什么大用）。下面曼大“Studium Generalle”官网上提供的免费课程列表。
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGK5ibeQsLA7kpx4OcJVHWwULCnYhMCVVJIpjvvcrI4aA30AnzZuKN0Xg/640?wx_fmt=png"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGK5ibeQsLA7kpx4OcJVHWwULCnYhMCVVJIpjvvcrI4aA30AnzZuKN0Xg/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
 
 
 不得不说**曼大和很多企业联系都非常紧密**，BWL专业常常会收到学校发的各种企业参观项目，有学校组织的，有教授在上某一门课上组织大家去参观，也有International office组织，总之真的有很多机会去实地参观，了解企业文化，了解最新技术。  
@@ -59,10 +58,10 @@ category: 德国留学
 
 最后，曼大大概有4个图书馆，分别坐落在不同地方，提供了相当好的学习环境，学校有规定冬天进图书馆是不能穿外套带零食，只能寄存在楼下柜子里，吃的可以悄悄带上楼，不要被管事小哥哥发现就好。最令人欣慰的是**图书馆夏天有空调！**对，你没有看错是空调，空调这种东西在德国是多么的难能可贵，记得有一年暑假曼海姆30度高温持续好几天，多亏图书馆有空调，让我在暑期有了去图书馆学习的动力！还有，BWL图书馆有多媒体区域，大家可以在那讨论（聊天），都是独间的小房子，超棒的，因为图书馆，我爱上了学习。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibqZGOE4JV8azKXzSEwGBsurczRSZyIz0AQvwMalrouBukYWCVcPnGnA/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibqZGOE4JV8azKXzSEwGBsurczRSZyIz0AQvwMalrouBukYWCVcPnGnA/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibPicU3NJvnKFGwSoHb0wKLjNbU2g5n6Q0QSIY62iaDS2CSRb7M0INI5kg/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibPicU3NJvnKFGwSoHb0wKLjNbU2g5n6Q0QSIY62iaDS2CSRb7M0INI5kg/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
  
 
 
@@ -73,7 +72,7 @@ category: 德国留学
 讲真的，不吹嘘，曼海姆大学在德国企业/社会上的认可度蛮高的呢。毕竟我们学校真的很重视经管专业，也和各个企业有密切合作，下图是在我校官网上找到的，麦肯锡，KPMG, BASF，ROCHE等公司都和曼大有合作。
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGYib5YdxZB4BicE6aUibdP3LfIibJVdF7iaFCRUBp9hyibbQYLT0Rh9SqpATQ/640?wx_fmt=png"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGYib5YdxZB4BicE6aUibdP3LfIibJVdF7iaFCRUBp9hyibbQYLT0Rh9SqpATQ/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
    
 
 曼大WIFO专业有两门课还是SAP的人授课的，我们也经常有去SAP，BASF等企业参观的workshop，记得之前就有个巴基斯坦的同学说他就是当时去参加Workshop时问工作人员有没有实习职位，然后留了联系方式，他发了简历，后来拿到实习了。
@@ -90,9 +89,9 @@ category: 德国留学
 学校组织很多活动，刚开学有Orientation Session，Welcome Party，还有每年都有的Schlossfest会放烟花。这些活动让大家对曼大更加了解，也可以借此机会认识新朋友。我们学校国际学生真的很多，每年交换生也非常多，所以国际处会经常组织外出活动，记得我刚来时还跟着学校去法国斯特拉斯堡玩，认识了不少朋友。另外，学校每周四在BWL图书馆下面都有Party，可以提前买票。国际处的老师也是非常友好，只要你有问题发邮件给他们，一定是有问必答，很热情，极大提高了我们的“用户体验感”。
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibVn1bic0WK7OnmSlxicPTSaRBu5o9YPGYWFJkOuHeNjiciaTcaPwaezWCdQ/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibVn1bic0WK7OnmSlxicPTSaRBu5o9YPGYWFJkOuHeNjiciaTcaPwaezWCdQ/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
    
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibVYSbQBpumCABndV7nSdmy0cFvtl2IJBibXVGmSRKneIf9HSE2YwE54g/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7eUuibqmyQzBWxjmibZpkicfmibVYSbQBpumCABndV7nSdmy0cFvtl2IJBibXVGmSRKneIf9HSE2YwE54g/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
 
 
 除了上面提到的学校组织的各式各样活动，学校还有一个Sportprogram，里面提供了很多超有意思的体育项目，**有些免费，有些只收取很低的费用**。比如羽毛球，网球，篮球，芭蕾舞，瑜伽，**潜水，学帆船**，每周还要徒步活动，各种各样，我当年是这个Sport Program的重度使用者。极力向大家推荐。
@@ -108,13 +107,13 @@ category: 德国留学
 曼大有两个食堂，一个比较普通，提供早饭（以前是没有的）和午饭，午饭一般有三个选项，价格便宜，3-5欧，不是特别美味，勉强能吃吧，总之我对曼大食堂的印象就是**太咸**。食堂环境还是很不错的。还有另外一个食堂，提供午饭和晚饭，晚上会开蛮久，价格稍微贵一些，环境很好，很多人晚上会去那喝咖啡聊天。
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGGmgibQ49nicdxVicUPT8nFTE9WkEFlLJE2iahrZmYvwPkCqNyHGWRUp03Q/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGGmgibQ49nicdxVicUPT8nFTE9WkEFlLJE2iahrZmYvwPkCqNyHGWRUp03Q/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
   
 
 至于曼海姆这个城市，现在也是越来越优秀了，前段时间刚开了一家很大的亚超而且就在市中心，非常方便，造福了一大批曼海姆中国人。难能可贵的是最近还又开了两家奶茶店，令人惊喜的是竟然有脏脏茶，虽然比不上在香港拍了一小时队的“鹿角巷”，但也算美味，表示非常知足。
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGRwBpt1RM6ia5IDoicQYkMMqVktbkXG6ibUhwJP3t6XtgPkibGMxdfrdZdg/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7e9ZCkLVELbj0pA4d7akdzGRwBpt1RM6ia5IDoicQYkMMqVktbkXG6ibUhwJP3t6XtgPkibGMxdfrdZdg/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 70%; height: 70%;" />
   
   
 

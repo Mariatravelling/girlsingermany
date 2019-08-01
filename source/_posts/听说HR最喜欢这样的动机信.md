@@ -106,7 +106,7 @@ category: 工作在德国
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIadU2aNnb5OsOXEIfgic6QZZvsY1tBM1XEUs8xEP0qF0MUzzUk2C9OOA/640?wx_fmt=png"  style=" display: block; margin: 0 auto;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fZmjOREVnySMFsyPz8uIXIadU2aNnb5OsOXEIfgic6QZZvsY1tBM1XEUs8xEP0qF0MUzzUk2C9OOA/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" />
 
   
 
