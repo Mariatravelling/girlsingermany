@@ -59,7 +59,7 @@
         {% if page.editor %}
         <div class="post-announce">
             {{ __('copyright_statement.one') }}
-            <a href="{{ page.editor.link }}">{{ page.editor.name }}</a> {{ __('copyright_statement.two') }}：{{ page.editor.name }}（<a href="{{ page.editor.link }}">{{ page.editor.link }}</a>）
+            <a href="{{ page.editor.link }}">{{ page.editor.name }}</a> {{ __('copyright_statement.two') }}：{{ page.editor.name }}
         </div> 
         {% else %}
         <div class="post-announce">
