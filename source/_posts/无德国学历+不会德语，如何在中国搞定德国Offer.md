@@ -3,7 +3,10 @@ title: 无德国学历+不会德语，如何在中国搞定德国Offer
 date: 2019-08-04
 tags: 好姑娘在德国
 cover: /img/73.jpeg
-author: 小慧慧
+author: 
+  nick: 小慧慧
+editor:
+  name: 小慧慧
 subtitle: 工作在德国
 category: 工作在德国
 ---
@@ -74,15 +77,15 @@ c）德国境内一家银行的不可撤回的银行担保证明
 
 网站首页：
 
-<img class="" data-copyright="0" data-ratio="0.6311787072243346" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cW2yNfhH4uJp9omveHweRAy4ot4FkJM649ic0iaOx6Za6EY8iaBxdduX2stqQSgLrDHLJZqK3GM5Ndg/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cW2yNfhH4uJp9omveHweRAy4ot4FkJM649ic0iaOx6Za6EY8iaBxdduX2stqQSgLrDHLJZqK3GM5Ndg/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 在首页左侧栏目中点击“Institutionen”。
 
-<img class="" data-copyright="0" data-ratio="0.5060975609756098" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cW2yNfhH4uJp9omveHweRAmAMHfSwgIQib3J1OuNnRg3upGAs0AicFTNs5VDvV3WzqhZdam6gP9icXQ/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cW2yNfhH4uJp9omveHweRAmAMHfSwgIQib3J1OuNnRg3upGAs0AicFTNs5VDvV3WzqhZdam6gP9icXQ/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 选择国家（China）和学校类别（比如211），还可以放上你就读大学的英语关键词就可找到相应结果。主要看Status那一栏，通常有三种status，H+是指被德国认可的大学，H-是指不太被认可的大学，
 
-<img class="" data-copyright="0" data-ratio="0.5592705167173252" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cW2yNfhH4uJp9omveHweRA1eIDR8Sj6hkniaibQwExvz2M2T1sZWBK2Lq6gat2jXrkwzpWWAFREsaQ/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cW2yNfhH4uJp9omveHweRA1eIDR8Sj6hkniaibQwExvz2M2T1sZWBK2Lq6gat2jXrkwzpWWAFREsaQ/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 找到自己的大学后，点击 + 按钮，会有该所大学的德语介绍，需要将这份介绍打印出来作为申请材料之一。
 

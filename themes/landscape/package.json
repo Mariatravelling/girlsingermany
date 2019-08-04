@@ -5,13 +5,11 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node test.js",
-    "build": "ng build"
+    "start": "node test.js"
   },
   "keywords": [
     "hexo",
     "hexo-theme"
   ],
-  "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
   "license": "MIT"
 }

@@ -3,7 +3,10 @@ title: 错过这些留德求职小Tip，好像失去一个亿
 date: 2019-08-04
 tags: 好姑娘在德国
 cover: /img/119.jpeg
-author: 小慧慧
+author: 
+  nick: 小慧慧
+editor:
+  name: 小慧慧
 subtitle: 工作在德国
 category: 工作在德国
 ---
