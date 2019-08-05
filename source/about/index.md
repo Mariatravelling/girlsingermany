@@ -5,4 +5,6 @@ date: 2019-05-06 11:27:36
 ---
 
 
-This is just a try, hope it's working
+来自小慧慧的一份自我介绍和感谢信。
+
+嗨，我是小慧慧，管理着一个
