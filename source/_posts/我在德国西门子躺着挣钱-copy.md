@@ -15,9 +15,6 @@ category: 工作在德国
 
 德国西门子作为全球电子电气工程领域的领先企业无论是在德国还是全球都有一定的影响力。也是德企的代表。那在这样一家大企业工作会是一种什么别样感觉呢？今天公众号“游走在德国”的作者给大家分享下他在西门子实习的十大趣事，比如躺着挣钱。
 
-
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cicGnOgEBdiaYHdVoXuw9m9jnGO5NuicAdGJQVp1ibNbGKC0tD32hzteG19vYyZUcPcibYEwfCm1Qj2UQ/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" />
-
   
 
 转眼之间，我已在德国西门子医疗工作了近一年。
@@ -35,7 +32,7 @@ category: 工作在德国
 当然，这些经历都是私人化的，可能不具有普遍性，不能代表整个德国，也不能代表所有德国公司。
 
  
-<img src="https://mmbiz.qpic.cn/mmbiz_png/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAxTKKjXFN0huhtSDXsV9ibuPWrjg5veichGHUiaOhU8BAUmezkIket7fNw/640?wx_fmt=png"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" /> 
+<img src="https://mmbiz.qpic.cn/mmbiz_png/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAxTKKjXFN0huhtSDXsV9ibuPWrjg5veichGHUiaOhU8BAUmezkIket7fNw/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 图/ 西门子医疗Logo，原名Siemens Healthcare
@@ -53,9 +50,9 @@ category: 工作在德国
 
 我跟同事开玩笑道：**躺在戛纳的沙滩上喝着鸡尾酒晒太阳，可比上班赚得多多了。**
 
-  
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAafprVuicox8HXnAknVX6dCdOx9pqI3YjA9orFUaDLmOdJmDojmad6Zw/640?wx_fmt=jpeg)
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAafprVuicox8HXnAknVX6dCdOx9pqI3YjA9orFUaDLmOdJmDojmad6Zw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>  
+
 
 图/ 我在戛纳的沙滩上，可惜没有鸡尾酒
 
@@ -276,7 +273,7 @@ category: 工作在德国
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAmCpQjG6FZxMTfeAGn9VCTLXgI4uPFycxxnnJsd2OzxQqZzfOkm70gg/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAmCpQjG6FZxMTfeAGn9VCTLXgI4uPFycxxnnJsd2OzxQqZzfOkm70gg/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
     
 
 图/ 五道菜
@@ -301,7 +298,7 @@ category: 工作在德国
 
   
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TArBeNdrP1nXfcK0YGGuLqlQ4CWg3mfqmsDk5pFQGzay5trvFrl6nsVw/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TArBeNdrP1nXfcK0YGGuLqlQ4CWg3mfqmsDk5pFQGzay5trvFrl6nsVw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 图/ 医生确诊后给我了消炎的药膏
 
@@ -325,7 +322,7 @@ category: 工作在德国
 
 习惯了在学校独来独往，公司的这种集体主义让人倍感温暖。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAewkJIkL52iaAftnYxVZmXq3rJvxa19I0KjGQCq4OYWmtsVKeRt9IeHg/640?wx_fmt=jpeg"  style=" display: block; margin: 0 auto; width: 60%; height: 60%;" />  
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/YMlk2HgxTnmJy8pXUGgDSGuvmO03P5TAewkJIkL52iaAftnYxVZmXq3rJvxa19I0KjGQCq4OYWmtsVKeRt9IeHg/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 图/ 一位同事带来了蛋糕Krapfen
 

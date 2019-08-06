@@ -48,7 +48,7 @@ category: 留德生活
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7d9ry5fxfbibTI4wT3k9icYJBmX1D7AgFbQkib6g1ABib6CjptyotQRx9hS740d1SicSTJWQdKk7Lfk9IQ/640?wx_fmt=png" data-type="png" data-w="836" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7d9ry5fxfbibTI4wT3k9icYJBmX1D7AgFbQkib6g1ABib6CjptyotQRx9hS740d1SicSTJWQdKk7Lfk9IQ/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -82,7 +82,7 @@ category: 留德生活
 
 
 
-<img class="rich_pages" data-copyright="0" data-cropselx1="0" data-cropselx2="540" data-cropsely1="0" data-cropsely2="331" data-ratio="0.613031914893617" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cZA2qESsmVNpnmqhjAHS1wFMMIHF9kFiaVIu2YxysfiaK6icPPluUAUZvMKIeY04N0AAkkicuibaJvA8g/640?wx_fmt=jpeg" data-type="jpeg" data-w="752" style="width: 540px;height: 331px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cZA2qESsmVNpnmqhjAHS1wFMMIHF9kFiaVIu2YxysfiaK6icPPluUAUZvMKIeY04N0AAkkicuibaJvA8g/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 

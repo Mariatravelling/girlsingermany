@@ -28,7 +28,7 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
 
 
-<img class="" data-ratio="0.6670212765957447" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fpoiaqC7t5rzDQpk71gQViaia3PJxaEvEPDjhhYN262hPib4ic57vrXZRDcLe5ciajuGnt3nSzC69QBicDA/640?wx_fmt=jpeg" data-type="jpeg" data-w="940"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fpoiaqC7t5rzDQpk71gQViaia3PJxaEvEPDjhhYN262hPib4ic57vrXZRDcLe5ciajuGnt3nSzC69QBicDA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -44,7 +44,7 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
  
 
-<img class="" data-copyright="0" data-ratio="1.7777777777777777" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3erticqAkshKa8Ye8M09SLNkXrPpEeoxLA2iboKFDSRbwC8qpctn0cicoqw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3erticqAkshKa8Ye8M09SLNkXrPpEeoxLA2iboKFDSRbwC8qpctn0cicoqw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -60,7 +60,7 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
  
 
-<img class="" data-copyright="0" data-ratio="0.6666666666666666" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3eSPvItZKZgIZMKw3LImMsqCrXASqcibib3v7FJtZwXSyTFCQIVKPNloibA/640?wx_fmt=jpeg" data-type="jpeg" data-w="900" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3eSPvItZKZgIZMKw3LImMsqCrXASqcibib3v7FJtZwXSyTFCQIVKPNloibA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -72,7 +72,7 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
 
 
-<img class="" data-copyright="0" data-ratio="1" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3eEvjc53chicCFEJibPSEDwiaicZZpOp7R9tDYyIFJjGyxkXK2nQkDIDDibiaA/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="color: rgb(62, 62, 62);font-family: Optima-Regular, PingFangTC-light;font-size: 15px;letter-spacing: 1px;white-space: normal;text-align: center;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3eEvjc53chicCFEJibPSEDwiaicZZpOp7R9tDYyIFJjGyxkXK2nQkDIDDibiaA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -90,9 +90,9 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
 这周日（10月21号）她在柏林有一场Theme show表演，主题是"crazy broken asian"，会涉及'Sex! Sexism! Racism! Drugs! Family! Work! Sex!' 等部分。一起参与表演的还有Erika和Tyrone，他们是欧洲很有名的脱口秀演员，长期做欧洲巡演。柏林的小伙伴不要错过哦！好遗憾自己没在柏林。。
 
-<img class="" data-copyright="0" data-ratio="1.4151992585727526" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3ezicIY6LUoD5VYCk1PFfwgtdh3rM9UiaybewiaCZXtKX9NRS8MCq3muXJw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1079" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3ezicIY6LUoD5VYCk1PFfwgtdh3rM9UiaybewiaCZXtKX9NRS8MCq3muXJw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
-<img class="" data-copyright="0" data-ratio="1.4151992585727526" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3eYkOM0pSmHYlyzAjPANzGtUyhKdRoaict8b31HrSZxLdUGky5sUm4q3A/640?wx_fmt=jpeg" data-type="jpeg" data-w="1079" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f7BRZiaibvAddFEIyb3Cyg3eYkOM0pSmHYlyzAjPANzGtUyhKdRoaict8b31HrSZxLdUGky5sUm4q3A/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 最后她在fb上建了一个小组‘Germany Depression Help’，是帮助在德国有抑郁症的expats传播一些有关抑郁症治疗的信息，欢迎感兴趣的朋友大家去fb关注哦。
 
@@ -126,4 +126,4 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
 这儿，有趣，有腔调，有**态度**
 
-<img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7f4vLC0G1xicpeEVdibdtpblWDkhhPgwc0ocAxJLPOwAJJ57AIHdXktMYqv5vEbS1p8uI6QLqgFJpicA/640?wx_fmt=jpeg" data-cropx1="12.141176470588235" data-cropx2="242.8235294117647" data-cropy1="13.658823529411764" data-cropy2="248.8941176470588" data-ratio="1.0217391304347827" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7csjjt4pWSy7nvhff4km4N9uuo5MIrLDQLB8opvmQorMMV3Vx2icb24ERP03m5gBHNkfotROUxsqmw/640?wx_fmt=jpeg" data-type="jpeg" data-w="230" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 152px !important;" width="152px"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7csjjt4pWSy7nvhff4km4N9uuo5MIrLDQLB8opvmQorMMV3Vx2icb24ERP03m5gBHNkfotROUxsqmw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>

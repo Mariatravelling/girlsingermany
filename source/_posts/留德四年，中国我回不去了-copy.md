@@ -18,9 +18,9 @@ category: 留德生活
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibX20eiaQnrZPnUMYtJR2ibMU99au3ByeicnMWvApd1bLARpj43lALehCaA/640?wx_fmt=jpeg" data-type="jpeg" data-w="647" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibX20eiaQnrZPnUMYtJR2ibMU99au3ByeicnMWvApd1bLARpj43lALehCaA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
-<img class="" data-copyright="0" data-ratio="1.130298273155416" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibI8UwuJzmpLFxjQp12zt2TozSJo40CVvyty3TgqprdPcEm5JtuFibMkw/640?wx_fmt=jpeg" data-type="jpeg" data-w="637" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibI8UwuJzmpLFxjQp12zt2TozSJo40CVvyty3TgqprdPcEm5JtuFibMkw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 中国有中国的好，德国有德国的好，最重要的是清楚自己想要的是什么。我结合自身情况从下面几个方面进行了一些分析，工资，上班时间假期，工作环境（人际关系，升职加薪空间，发展机会），稳定性，生活环境，社会福利等方面来聊聊中德利弊。
 
@@ -30,7 +30,7 @@ category: 留德生活
 
 
 
-<img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibnw60vDpl37vPXyiak35rf9Thwibic7T5BZZUnxia6eIjPQe071VBfbVz1w/0?wx_fmt=jpeg" data-cropx1="23.361216730038024" data-cropx2="990.9049429657795" data-cropy1="0" data-cropy2="547.041825095057" data-ratio="0.5646328852119958" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibB1ib23RCb4bwakib9Cb0w1fmMbKqunLiaetBgIqLHrnwhTovtjjrdLa1Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="967" style="width: 497px;height: 281px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibB1ib23RCb4bwakib9Cb0w1fmMbKqunLiaetBgIqLHrnwhTovtjjrdLa1Q/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -38,7 +38,7 @@ category: 留德生活
 
 
 
-<img class="" data-copyright="0" data-ratio="1" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibVGEuvgz4gyHeThC4f8IA99pov1EzcQ2gua1cibFp9rFl02mY88MVOag/640?wx_fmt=jpeg" data-type="jpeg" data-w="300" style="height: 223px;text-align: center;white-space: normal;width: 223px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibVGEuvgz4gyHeThC4f8IA99pov1EzcQ2gua1cibFp9rFl02mY88MVOag/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -50,7 +50,7 @@ category: 留德生活
 
 
 
-<img class="" data-copyright="0" data-ratio="0.5" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibJjuiaKCAyFRYAK1I3iayEouTPzaj76XdyavUqu3RJp9wFP5ibHEbhPnAw/640?wx_fmt=png" data-type="png" data-w="402" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibJjuiaKCAyFRYAK1I3iayEouTPzaj76XdyavUqu3RJp9wFP5ibHEbhPnAw/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -65,7 +65,7 @@ category: 留德生活
 
 
 
-<img class="" data-copyright="0" data-ratio="0.40683229813664595" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibMlRfWaKWClU4TSz7x7AK2ybFddzyU8v0CJK0EeFicjkurEAKXpabwfw/640?wx_fmt=jpeg" data-type="jpeg" data-w="644" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drSyp0ic8P2PbWcibPmhicBbibMlRfWaKWClU4TSz7x7AK2ybFddzyU8v0CJK0EeFicjkurEAKXpabwfw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 

@@ -33,7 +33,7 @@ category: 工作在德国
 
 **建立自己的Application Accountbook:**一个超简单的Excel表格。从左到右分别记录投递时间，公司名称，职位名称，网页链接，是否记录岗位描述（划重点）这五项。
 
-<img class="" data-ratio="0.43583815028901735" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6Oyehhy5KWib1py04W3EabfPCKTMqyP2icNlwMyXdWI7ONxBzWU3ppZW3ug/640?wx_fmt=png" data-type="png" data-w="1730" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6Oyehhy5KWib1py04W3EabfPCKTMqyP2icNlwMyXdWI7ONxBzWU3ppZW3ug/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -43,7 +43,7 @@ category: 工作在德国
 
 **将Cover Letter分类：**CoverLetter 虽然耗时长，但是时间要耗在修改上啊。每个人都会有自己的一个基本模板，基本模板确定了CL的结构、排版和大致内容，然后根据不同岗位要求来修改。投到一定数量后，你会发现自己投递的公司的类型大体分为几种，然后将所有写过的CL分类好，以后遇到同类型公司，就可以参考之前写过的此类CL，节省很多时间啊。下图是我的分类：
 
-<img class="" data-ratio="0.38621887666473653" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6Oy8gsm4SWV33BdN2E3n6pZibwiaxia6rDwJiaricC0PJ23Zibeib8w3JNss9vkw/640?wx_fmt=png" data-type="png" data-w="1727" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6Oy8gsm4SWV33BdN2E3n6pZibwiaxia6rDwJiaricC0PJ23Zibeib8w3JNss9vkw/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 

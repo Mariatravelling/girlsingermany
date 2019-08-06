@@ -48,15 +48,15 @@ category: 留德生活
 
 大多数人刚到德国都会和别人合租，也就是我们常说的WG。学生宿舍的WG一般2到8人不等，大家都来自不同地方，年龄相仿，教育水平接近，如果是相同/类似专业就有更多共同话题聊了。通过每天接触，日常帮助，久而久之就能和聊得来的人建立友谊。另外，室友的朋友也会来做客，他们也许也可以成为你的朋友。 平常你也可以**主动组织一些WG活动**，最常见最简单的就是大家各自展示厨艺，你不仅可以尝到最地道的其他国家美食，也能借此机会了解他们的文化，加深彼此了解。还可以约舍友一起出去玩，比如去周边徒步爬山，尝试新餐厅等，一来二往，你们之间的友谊自然就建立起来了。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fQEEtMic3kSmvRhN6CY3yfueYia9EoVaYJn1iceg0O6tSmy0IIxueNCXfhZClNGL5bu85k73rGr1CXw/640?wx_fmt=jpeg" data-type="jpeg" data-w="940"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fQEEtMic3kSmvRhN6CY3yfueYia9EoVaYJn1iceg0O6tSmy0IIxueNCXfhZClNGL5bu85k73rGr1CXw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 之外，也可以**借助Facebook交朋友学德语**，FB有个小组“Tandem Chinesisch-Deutsch”，可以在上面发信息，写明自己所在地，希望学德语，下面会有对中文感兴趣的外国人回复你，你们可以约着一起喝咖啡，讲中文练德语交朋友三不误。我研究生期间就是在这个小组里找到了当时的语伴，我们每周末会见一次，有时候还会约着去别的地方玩，她中文水平比我德语好，所以我们常常混着说，后来她去新加坡交换半年，联系也就慢慢减少了。总而言之，通过Tandem交朋友是个很不错的选择，一举两得，而且既然对方想学中文，肯定是对中国文化感兴趣，可聊的东西也会很多。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fQEEtMic3kSmvRhN6CY3yfuRTIA1IDYUFIJxLD6AjBichFO7SppI460RACHEmnxJSskpXKqOicYttmA/640?wx_fmt=jpeg" data-type="jpeg" data-w="940"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fQEEtMic3kSmvRhN6CY3yfuRTIA1IDYUFIJxLD6AjBichFO7SppI460RACHEmnxJSskpXKqOicYttmA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 另外，**多多发展自己的爱好，参加一些与爱好相关的活动**，比如乒乓球，足球社团，大家有共同爱好志同道合交流起来也方便。毕竟无论是中国人还是其他国家的，人都有**相似的属性**，比如**愿意亲近和自己相似的，排斥不熟悉的**。喜欢日本动漫/足球/乒乓球的中国人会找到有相似爱好的德国人做朋友。我们学校有个Sport Program每周日会组织大家去不同地方徒步爬山，每次去爬山都会认识到新朋友，也会有常见面孔，大家一边徒步一边谈天说地，既锻炼了身体，欣赏了大自然美景又能交到新朋友，何乐而不为。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fQEEtMic3kSmvRhN6CY3yfuXFgUUvQFMcXgOR8ZJVgIIQicKgHic5mshTaB2yRmiawicAQGJLnbXKbiagQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="940"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fQEEtMic3kSmvRhN6CY3yfuXFgUUvQFMcXgOR8ZJVgIIQicKgHic5mshTaB2yRmiawicAQGJLnbXKbiagQ/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 上面提到的途径基本上都是在课外活动中认识新朋友，其实和身边同学建立友谊是最简单最高效的，大家修同一门课，平时一起吐槽某门课/某位老师/学生，八卦共同好友，期末还可以一起复习考试，接触多了，关系自然就越来越好了，朋友也会越来越多。
 

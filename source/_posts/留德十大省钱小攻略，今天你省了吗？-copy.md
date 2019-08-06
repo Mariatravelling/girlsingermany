@@ -23,7 +23,7 @@ category: 留德生活
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib02xoMUgE6Igyn0vb6MqicvxqyjAibftMbq7l3agybQ5zMlmwz8BG59z6A/640?wx_fmt=png" data-type="png" data-w="451" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib02xoMUgE6Igyn0vb6MqicvxqyjAibftMbq7l3agybQ5zMlmwz8BG59z6A/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -35,7 +35,7 @@ Idealo是一个比价网站，搜集了德国大多数电商网站，相当强�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0icIDribHw3QpqCuIx6Q78WwRtZYaicuNp5kjJibViabpe0jKzcLh2zkrNJg/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="width: 525px;height: 322px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0icIDribHw3QpqCuIx6Q78WwRtZYaicuNp5kjJibViabpe0jKzcLh2zkrNJg/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -49,7 +49,7 @@ Idealo是一个比价网站，搜集了德国大多数电商网站，相当强�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0augZa6tCPGWu6jPNCiczDVFybRtbf6xPJE5gOnvOr4V8taQe5NWiaepQ/640?wx_fmt=png" data-type="png" data-w="1168" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0augZa6tCPGWu6jPNCiczDVFybRtbf6xPJE5gOnvOr4V8taQe5NWiaepQ/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 ‍‍
 
@@ -61,7 +61,7 @@ Idealo是一个比价网站，搜集了德国大多数电商网站，相当强�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0ljXXCfkBmj0iaQ1fd51diaZOalJNLGmF0ibmFfjVLfxz555EnCpkqf8nA/640?wx_fmt=jpeg" data-type="jpeg" data-w="984" style="height: 327px;width: 429px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0ljXXCfkBmj0iaQ1fd51diaZOalJNLGmF0ibmFfjVLfxz555EnCpkqf8nA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -71,7 +71,7 @@ Ebay大家应该都比较熟悉了，上面很多电子产品比亚马逊上便�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0Hy5xZb5QtMpQFFxaxQy1wuWvbbibPp4iaMjPnicBicPo0shjvhYfTHgETg/640?wx_fmt=png" data-type="png" data-w="1349"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0Hy5xZb5QtMpQFFxaxQy1wuWvbbibPp4iaMjPnicBicPo0shjvhYfTHgETg/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -88,7 +88,7 @@ ebay的付款机制并没有淘宝那么健全，淘宝付款后钱是在淘宝�
 
 
 
-<img  src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0ymib5mcBa9TU04CFnnsmoDpNKyhibicf68uGuMEk17tj7541PoL8WvqmQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1138" style="width: 496px;height: 320px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0ymib5mcBa9TU04CFnnsmoDpNKyhibicf68uGuMEk17tj7541PoL8WvqmQ/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -98,13 +98,13 @@ ebay的付款机制并没有淘宝那么健全，淘宝付款后钱是在淘宝�
 
 
 
-<img class="" data-copyright="0" data-ratio="0.9293333333333333" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0iazWClpv0vjx6ia2OhdiahJ4Q3Szb04uRnHKjcjxD0GktXnzwpa17PXCQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="750" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0iazWClpv0vjx6ia2OhdiahJ4Q3Szb04uRnHKjcjxD0GktXnzwpa17PXCQ/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 网页打开如下图，里面有些特定产品的打折，使用时需要点击右下方红色的“AKTIVIEREN”，该打折的二维码会被存在APP右上方二维码处，结账时给结账人扫二维码即可。这个app真的超级适用，我也是在德两年后才知道的。
 
 
 
-<img class="" data-copyright="0" data-ratio="1.724" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib05rrSESCTHDjVxSiazxKSn3ju2ZgO8gj3n8nFrgAiaKzVUFLCkcbYZJmw/640?wx_fmt=jpeg" data-type="jpeg" data-w="750" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib05rrSESCTHDjVxSiazxKSn3ju2ZgO8gj3n8nFrgAiaKzVUFLCkcbYZJmw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -114,7 +114,7 @@ PAYBACK积分和Rossman APP有异曲同工之妙，不过payback使用范围更�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib02LkfZzSqaMR3iazljeaagI6QkjvwOricykvgRSPlhsEZQuodvWKCHW9g/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="width: 382px;height: 325px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib02LkfZzSqaMR3iazljeaagI6QkjvwOricykvgRSPlhsEZQuodvWKCHW9g/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -122,7 +122,7 @@ PAYBACK积分和Rossman APP有异曲同工之妙，不过payback使用范围更�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0QZ7agkbKiaSPbg8EjhnyFCKMia9ZsJMMoibkG6pDial4azuERnztYq586g/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="width: 377px;height: 322px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0QZ7agkbKiaSPbg8EjhnyFCKMia9ZsJMMoibkG6pDial4azuERnztYq586g/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -130,7 +130,7 @@ PAYBACK积分和Rossman APP有异曲同工之妙，不过payback使用范围更�
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0k1k2mUaSibcsugAzyqlgSibia18cLxs4ItdA11AOcAzKJm1Xg0ftYl4MA/640?wx_fmt=jpeg" data-type="jpeg" data-w="748" style="width: 557px;height: 954px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cl8gpI1B1pXibYlBkYmrzib0k1k2mUaSibcsugAzyqlgSibia18cLxs4ItdA11AOcAzKJm1Xg0ftYl4MA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 

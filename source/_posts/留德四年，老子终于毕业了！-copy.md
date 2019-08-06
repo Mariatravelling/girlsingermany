@@ -20,11 +20,11 @@ category: 学在德国
 
 而后让我陷入沉思的是这句留言：**读了四年，花的钱和时间太浪费了，不如那时候读个英国或者香港的一年硕士，都工作三年了，学费都赚回来了。**
 
-****
+
 
 看到第一眼，我第一反应是这个人怎么能这么说话，好mean，可又认真想了想，好像从某些角度来讲也没毛病。以前我总觉得香港/英国一年硕士学不到什么，很多都不过为了拿个学位，后来我知道他们其实课程压力很大，他们是将2年的课程压缩到1年。不像在德国，我们选课自由程度很大，有些人每学期选很多课，考很多试，2年毕业，有些人选不多的课，但想每门课都拿好成绩，也想花半年实习，所以毕业时间就长一点。无论读书几年，在我看来读书时间越长，专业知识应当更扎实，学到的知识也应更深更广或者在其他方面有所进步，才不枉那些逝去的时间。**每个人都有自己的节奏**，**早毕业晚毕业，只要有自己的计划就好。**
 
-****
+
 
 **留德读书，你会倾向早毕业还是晚毕业？为什么？你们都是几年毕业的呢？我对这个问题还蛮感兴趣的，欢迎大家在下面留言，很想听听你们的想法。笔芯！**
 
@@ -39,13 +39,13 @@ category: 学在德国
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ82ooQP46FRVLUrku5IzBgvSG8bT7Nbediax8aKHSWhjHS42YkxxLTezAg/640?wx_fmt=jpeg" data-type="jpeg" data-w="700" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ82ooQP46FRVLUrku5IzBgvSG8bT7Nbediax8aKHSWhjHS42YkxxLTezAg/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 4年能消耗一个人太多的热情，这样持续的学生状态就像摄魂怪一样每天吞噬一点生活的动力。一度觉得自己抑郁了，又告诉自己怎么可能，只是些许焦虑罢了。事实证明，都是逼的，毕业了马上活蹦乱跳的，又是游泳滑雪，又是音乐会，生活的色彩一下就回来了，好像只是一个响指的功夫。这么说好像之前是有点矫情了。英国美国澳大利亚我都没去过，不知道那边的学生压力是怎样的，可能更多的是学费耗不起。德国的学费耗得起，耗不起的是能挂科（2次，第3次挂可以转行不用念了），能兼职打工完全养活自己，能做很多自己喜欢的副业没有人乱评价你。可是陷入这些漩涡后，仿佛留学的意义失了焦，或者并不是纯粹的拿一纸文凭。很多事情要上心也会让你伤心，比如和德国同学的交流可能并不会按着你想的方向去发展，会是因为文化差异，会是因为歧视，也可能是因为他们本来的性格就是这样。德国人抱德国人的团，土耳其人抱土耳其的团，中国留学生基本都是新来的菜鸡，要么语言不好，要么专业素质不强。可是我们做饭好吃啊，可是抱歉，大部分外国同学走不到这一步，能来家里吃饭的一般都是相当不错的伙计了。**比起国内念书一切都被安排的妥妥当当，德国有很多自己去处理的小事情，刚来的时候小到办个网，买个电话卡，大到租房延签，都恨不得时时刻刻拉个德语溜的在身边陪着。**接着会出现各种各样的剧情，比如受了伤要叫救护车，开罐头手筋断了要做手术戴护具，想学驾照买车被教练拖着不给考试不敢反抗的，搬家房东扣着押金不给的，**莫名其妙家里没有电视不听广播还要交广播电视费的（这玩意儿竟然最近还合法了）**，租到的房子基本都是空房不带家具的（带个厨房的还算省事儿，有的连厨房都没有），如果住到学生宿舍有天天轰趴音响不错的喝到天明的，如此种种不全是发生在我身上的，但却最起码都是眼里看着过来的。这些事其实没什么大不了的，就是扰乱心绪而已，心不定，魂便不宁。
 
 
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ829vb4KxF7b9icxkw4YyIsSUBVbaJRfic85BbR2xp4vUpibibNnT5cgT72lA/640?wx_fmt=jpeg" data-type="jpeg" data-w="700" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ829vb4KxF7b9icxkw4YyIsSUBVbaJRfic85BbR2xp4vUpibibNnT5cgT72lA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -55,7 +55,7 @@ category: 学在德国
 
 
 
-<img class="" data-copyright="0" data-ratio="1.1257142857142857" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ82oKuegDdFguTPyxdibazFASiaAG7arxEVvwbIFKvK4M1s4fjicXVicqxO1g/640?wx_fmt=jpeg" data-type="jpeg" data-w="700" style="text-align: center;white-space: normal;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ82oKuegDdFguTPyxdibazFASiaAG7arxEVvwbIFKvK4M1s4fjicXVicqxO1g/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 **4年会消耗一个人太多的热情，**直到你内心平静如止水，对待这些过眼云烟就像看笑话一样，最后还是回归到内心最初的渴望上来，告诉自己没人能帮得了我，这一路还是要自己一个脚印一个脚印踏过去，管他沼泽，管他刀山，管他油锅，有人走过了我便也能走过去。只是这煎熬度日如年，仿佛在隧道里看不到出口，只有无尽的黑暗，头灯照到的光斑和无尽的前路漫漫和这狭小空间里浑浊的空气，经历过那种绝望将会是而立前的我宁愿闭口不提的磨练。
 
@@ -67,7 +67,7 @@ category: 学在德国
 
 
 
-<img class="" data-copyright="0" data-ratio="0.5628571428571428" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ82RI93Py3ticQ9u2yYMG5oPxux74DHeASoicQbA759MKbibyYog9ibYrKsibg/640?wx_fmt=jpeg" data-type="jpeg" data-w="700" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7dqXYibJNceoHic0FMbXqMJ82RI93Py3ticQ9u2yYMG5oPxux74DHeASoicQbA759MKbibyYog9ibYrKsibg/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 4年了，爸爸妈妈给了我莫大的支持，虽然不常说，但还是辛苦爸爸妈妈了，要钱已经到厚着脸皮不知廉耻却还是被安慰不用担心，学费肯定有的。隔着这么远，空长了一身好厨艺，一身好力气。
 

@@ -53,7 +53,7 @@ category: 留德生活
 
 **职场社交网站：**首先先去职场社交网站建立自己的profile，在德国**LinkedIn和Xing**都很常用，有一个简单叙述自己个人经历的职场社交网页非常重要，有多重要呢？迄今为止我至少在LinkedIn上被不同公司的HR联系过不下5次，被英国约克大学的校友直接联系过很多次愿意给我内推。缺点是地点很泛，联系我的一般是英国和中国的HR，这就看运气了。LinkedIn和个人CV一样，同样需要千百次的修改和完善，一开始的时候会比较难上手，可以先看看其他人的主页，找到自己想要体现给未来雇主的风格（得跟个人专业符合），欢迎来LinkedIn看我的主页，network不嫌多。
 
-<img class="" data-ratio="0.9254606365159129" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6OyX4cfX81x73IWrgkYpNEUsyIYmmibUDKRhXgHTpmsMRIRBz3VfshicwdA/640?wx_fmt=png" data-type="png" data-w="1194" style=""/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6OyX4cfX81x73IWrgkYpNEUsyIYmmibUDKRhXgHTpmsMRIRBz3VfshicwdA/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -89,4 +89,4 @@ category: 留德生活
 
 **想要私聊小姐姐的可以加她微博互动哦！**
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6OyJf777GJqh5T1KxSNQHIG1ib8ribCiacOyjMUHfkXXYicN5FXpYKeDz10Nw/640?wx_fmt=jpeg" data-type="jpeg" data-w="527" style="height: 303px;text-align: center;white-space: normal;width: 190px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cJg9sYjuYJhFmjq1gCR6OyJf777GJqh5T1KxSNQHIG1ib8ribCiacOyjMUHfkXXYicN5FXpYKeDz10Nw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>

@@ -98,7 +98,7 @@ category: 留德生活
 
 **Öffentliche Verkehr：**公共交通，比如和公交、德铁的纠纷：因为德铁晚点导致误了航班或公务，造成了损失；或者在地铁里因急刹车受伤，要起诉地铁公司等。包括作为行人要求车主赔偿损失等，所以无车一族作为行人也需要法律保险。
 
-<img class="" data-ratio="0.66625" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drK27QiawVRuZzKUY7QdRrHuE1NeMia3nF1dGWFQCwtR1QBLA0CVmAnJ7G23QKBs3MYwK1zBhaCObA/640?wx_fmt=jpeg" data-type="jpeg" data-w="800"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7drK27QiawVRuZzKUY7QdRrHuE1NeMia3nF1dGWFQCwtR1QBLA0CVmAnJ7G23QKBs3MYwK1zBhaCObA/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
@@ -116,7 +116,7 @@ category: 留德生活
 
 3. 该公司历年来获奖不断，针对家庭和个人的法律保险在2017年8月获得了Stiftung Warentest获得了 1.6的高分（评分最高就是1.6），再一次从130多个Tarif中胜出成为Testsieger。
 
-<img class="" data-copyright="0" data-ratio="0.5952960259529603" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7drK27QiawVRuZzKUY7QdRrHS5zecAWslickpiccjWtDOGShjBeeibXvKtFR9dsN5rhOXgv4hSNtriaDog/640?wx_fmt=png" data-type="png" data-w="2466" style="width: 455px;height: 271px;"/>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7drK27QiawVRuZzKUY7QdRrHS5zecAWslickpiccjWtDOGShjBeeibXvKtFR9dsN5rhOXgv4hSNtriaDog/640?wx_fmt=png" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>
 
 
 
