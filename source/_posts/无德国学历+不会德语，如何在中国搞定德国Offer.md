@@ -2,7 +2,7 @@
 title: 无德国学历+不会德语，如何在中国搞定德国Offer
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/73.jpeg
+cover: /img/72.jpeg
 author: 
   nick: 小慧慧
 editor:

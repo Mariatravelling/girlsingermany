@@ -2,7 +2,7 @@
 title: 留德十大省钱小攻略，今天你省了吗？
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/112.jpeg
+cover: /img/98.jpeg
 author: 
   nick: 小慧慧
 editor: 

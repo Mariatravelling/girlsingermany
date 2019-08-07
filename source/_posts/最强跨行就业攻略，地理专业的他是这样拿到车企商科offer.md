@@ -2,7 +2,7 @@
 title: 最强跨行就业攻略，地理专业的他是这样拿到车企商科offer
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/90.jpeg
+cover: /img/77.jpeg
 author: 
   nick: 小慧慧
 editor: 

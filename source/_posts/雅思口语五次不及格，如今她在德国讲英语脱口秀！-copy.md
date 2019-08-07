@@ -2,7 +2,7 @@
 title: 雅思口语五次不及格，如今她在德国讲英语脱口秀！
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/130.jpeg
+cover: /img/120.jpeg
 author: 
   nick: 小慧慧
 editor: 
@@ -11,10 +11,6 @@ subtitle: 留德生活
 category: 留德生活
 ---
 
-
-**<img class="__bg_gif" data-ratio="0.4878048780487805" src="https://mmbiz.qpic.cn/mmbiz_gif/rW3MWnUicJ7fzCgjSj30c4gT7HoOVjunKSNdVWOlUxibgt3cs1mhrVKdH5bK5cP4xRgMwy67pHw9MLAbGE8zhWNg/640?" data-w="205" style="color: rgb(51, 51, 51);letter-spacing: 0.4px;font-family: DengXian;font-size: 14px;display: inline;box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: auto !important;" title="引导关注"/>**
-
-**这是“好姑娘在德国”的第92篇原创**
 
 今天的故事很励志很励志，主人公是我研究生校友，现在她黄段子讲的飞起，英语flow写的也是666,在脱口秀道路上越来越棒。谁能想到曾经的她雅思口语五次不及格，去年患有抑郁症，今年她找到了挚爱的事业，并为之努力奋斗。看，这就是人生。
 
@@ -96,34 +92,3 @@ Open mic 哪怕完全没经验的也可以参加，只是太差的话下一次�
 
 最后她在fb上建了一个小组‘Germany Depression Help’，是帮助在德国有抑郁症的expats传播一些有关抑郁症治疗的信息，欢迎感兴趣的朋友大家去fb关注哦。
 
-
-
-**今天的故事你们喜欢嘛？喜欢的话请在下面疯狂点赞并分享好不好，么么哒。**
-
-
-
-**<strong style="max-width: 100%;box-sizing: border-box;color: rgb(114, 114, 115);letter-spacing: 1px;background-color: rgb(255, 255, 255);overflow-wrap: break-word !important;">· 好文推荐 ·**</strong>
-
-**<br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>**
-
-[<img class="" data-backh="141" data-backw="526" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cVGqKjYtZgT6dr0oyIRyPyZsibZQ1JAeUk2tqVTKpGyXKDrMOPR3TpBAw6LywQHb5V6e1A9t2GcHA/640?wx_fmt=png" data-copyright="0" data-cropselx1="0" data-cropselx2="526" data-cropsely1="0" data-cropsely2="141" data-ratio="0.2679775280898876" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cVGqKjYtZgT6dr0oyIRyPyZsibZQ1JAeUk2tqVTKpGyXKDrMOPR3TpBAw6LywQHb5V6e1A9t2GcHA/640?wx_fmt=png" data-type="png" data-w="1780" style="top: auto;left: auto;right: auto;bottom: auto;box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 677px !important;"/>](http://mp.weixin.qq.com/s?__biz=MzI0OTE4MTY1Ng==&amp;mid=2649563878&amp;idx=1&amp;sn=f91b4fada9dceb53f324098cd51fbcd8&amp;chksm=f18ce651c6fb6f47a9b2871877dc808325422b5be7c542a2669613b92b9f3c722e68354dcc00&amp;scene=21#wechat_redirect)
-
-[<img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7fdbyuDXnRfSMxHXqssWwhggVnHIdZGHKHtLQ8tKS5EAa4HQp6gZH9rjEGnQ3LVLBwc8ecyx3lYicQ/0?wx_fmt=png" data-cropx1="0" data-cropx2="1536.828729281768" data-cropy1="22.89502762430939" data-cropy2="409.2486187845303" data-ratio="0.25234375" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7fdbyuDXnRfSMxHXqssWwhgzckVcv4hquBPP0YDZ0EIJgemwvlyzhsBpsNnhxhD16ib5eP7bic7XE4g/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 544px !important;"/>](http://mp.weixin.qq.com/s?__biz=MzI0OTE4MTY1Ng==&amp;mid=2649563994&amp;idx=1&amp;sn=7e093cf8d787592024c3c092811fb04e&amp;chksm=f18ce7edc6fb6efb6df56bdf1957cc845656e62f30fa9187ee095da7471504259bc8a4c6da37&amp;scene=21#wechat_redirect)
-
-[<img class="" data-backh="63" data-backw="252" data-before-oversubscription-url="http://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cVGqKjYtZgT6dr0oyIRyPy9gam5vRUN4O7g12UGAAibbCcbv852ZGIiacdPNbbhiahoAz82IsFvMocQ/0?wx_fmt=jpeg" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_png/rW3MWnUicJ7cVGqKjYtZgT6dr0oyIRyPye2L4dRN7X70Me90muibibE2icfh4JP3NRAdFicRAf77wrcRcSNaJEgibcvQ/0?wx_fmt=png" data-cropx1="36.4" data-cropx2="1554" data-cropy1="39.199999999999996" data-cropy2="422.79999999999995" data-ratio="0.2515625" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7cVGqKjYtZgT6dr0oyIRyPy9gam5vRUN4O7g12UGAAibbCcbv852ZGIiacdPNbbhiahoAz82IsFvMocQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 540px !important;"/>](http://mp.weixin.qq.com/s?__biz=MzI0OTE4MTY1Ng==&amp;mid=2649563626&amp;idx=1&amp;sn=0061c9cc3b30d4afd32f2df1bc368006&amp;chksm=f18ce55dc6fb6c4b4f4712731237a55d48cad9a208fa6915d036c9b5d66e0b3bbd04cc56b6fb&amp;scene=21#wechat_redirect)
-
-<br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
-
-如果你喜欢我的文章，<br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
-
-就给我点赞（右下角）和分享到朋友圈吧！
-
-😉别忘了长按下面二维码订阅我的公众号哦▼
-
-关注 **好姑娘在德国**
-
-**我是好姑娘，好姑娘是我**
-
-这儿，有趣，有腔调，有**态度**
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/rW3MWnUicJ7csjjt4pWSy7nvhff4km4N9uuo5MIrLDQLB8opvmQorMMV3Vx2icb24ERP03m5gBHNkfotROUxsqmw/640?wx_fmt=jpeg" style=" display: block; margin: 0 auto; width: 60%; height: 60%; "/>

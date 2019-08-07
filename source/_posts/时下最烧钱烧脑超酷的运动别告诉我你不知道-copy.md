@@ -2,7 +2,7 @@
 title: 时下最烧钱烧脑超酷的运动别告诉我你不知道
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/88.jpeg
+cover: /img/75.jpeg
 author: 
   nick: 小慧慧
 editor: 

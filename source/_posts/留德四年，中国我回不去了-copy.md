@@ -2,7 +2,7 @@
 title: 留德四年，中国我回不去了
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/113.jpeg
+cover: /img/99.jpeg
 author: 
   nick: 小慧慧
 editor: 

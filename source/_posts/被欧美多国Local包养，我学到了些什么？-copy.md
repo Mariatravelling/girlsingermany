@@ -2,7 +2,7 @@
 title: 被欧美多国Local包养，我学到了些什么？
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/120.jpeg
+cover: /img/110.jpeg
 author: 
   nick: 小慧慧
 editor: 

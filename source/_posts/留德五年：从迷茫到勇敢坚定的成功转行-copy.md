@@ -2,7 +2,7 @@
 title: 留德五年：从迷茫到勇敢坚定的成功转行
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/111.jpeg
+cover: /img/97.jpeg
 author: 
   nick: 小慧慧
 editor: 

@@ -2,7 +2,7 @@
 title: 无德国学历+无德国工作经验+不会德语，工作照样有（二）
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/87.jpeg
+cover: /img/74.jpeg
 author: 
   nick: 小慧慧
 editor: 

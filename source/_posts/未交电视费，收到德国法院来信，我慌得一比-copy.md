@@ -2,7 +2,7 @@
 title: 未交电视费，收到德国法院来信，我慌得一比
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/92.jpeg
+cover: /img/79.jpeg
 author: 
   nick: 小慧慧
 editor: 

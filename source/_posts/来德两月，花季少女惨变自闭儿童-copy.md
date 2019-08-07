@@ -2,7 +2,7 @@
 title: 来德两月，花季少女惨变自闭儿童
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/93.jpeg
+cover: /img/80.jpeg
 author: 
   nick: 小慧慧
 editor: 

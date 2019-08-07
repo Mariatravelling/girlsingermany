@@ -2,7 +2,7 @@
 title: 留学生回国有什么优惠政策？
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/109.jpeg
+cover: /img/95.jpeg
 author: 
   nick: 小慧慧
 editor: 

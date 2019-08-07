@@ -2,7 +2,7 @@
 title: 留德两年半，她选择了退学，回国开启新生活
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/110.jpeg
+cover: /img/96.jpeg
 author: 
   nick: 小慧慧
 editor: 

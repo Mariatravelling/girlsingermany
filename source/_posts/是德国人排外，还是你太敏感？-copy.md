@@ -2,7 +2,7 @@
 title: 是德国人排外，还是你太敏感？
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/89.jpeg
+cover: /img/76.jpeg
 author: 
   nick: 小慧慧
 editor: 

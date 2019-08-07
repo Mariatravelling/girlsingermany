@@ -2,7 +2,7 @@
 title: 梦幻小镇科尔马，仿佛走进童话世界啊~
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/94.jpeg
+cover: /img/81.jpeg
 author: 
   nick: 小慧慧
 editor: 

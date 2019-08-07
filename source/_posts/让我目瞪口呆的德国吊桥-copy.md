@@ -2,7 +2,7 @@
 title: 让我目瞪口呆的德国吊桥
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/122.jpeg
+cover: /img/112.jpeg
 author: 
   nick: 小慧慧
 editor: 

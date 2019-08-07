@@ -2,7 +2,7 @@
 title: 有了法律保险，再也不担心被房东扣押金了
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/91.jpeg
+cover: /img/78.jpeg
 author: 
   nick: 小慧慧
 editor: 

@@ -2,7 +2,7 @@
 title: 留德必须知道的报税小贴士
 date: 2019-08-04
 tags: 好姑娘在德国
-cover: /img/115.jpeg
+cover: /img/101.jpeg
 author: 
   nick: 小慧慧
 editor: 
