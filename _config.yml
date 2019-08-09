@@ -86,8 +86,9 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: heroku
-  repo: https://git.heroku.com/girlsingermany.git
+  type: git
+  repo: ssh:git@github.com:Mariatravelling/girlsingermany.github.io.git
+  branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 # Feed Atom
@@ -95,6 +96,7 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
 
 # Sitemap
 sitemap:
