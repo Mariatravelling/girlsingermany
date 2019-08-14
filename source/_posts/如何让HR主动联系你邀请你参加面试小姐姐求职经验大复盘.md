@@ -1,13 +1,14 @@
 ---
-title: 如何让HR主动联系你，邀请你参加面试？小姐姐求职经验大复盘
+title: 如何让HR主动联系你邀请你参加面试
 date: 2019-04-30 10:32:11
 tags: 好姑娘在德国
-cover: /img/30.jpeg
-author: 
+cover: /img/31.jpeg
 author: 
   nick: 小慧慧
 editor:
   name: 小慧慧
+
+# 首页每篇文章的子标题
 subtitle: 工作在德国
 category: 工作在德国
 ---
