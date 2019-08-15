@@ -104,6 +104,7 @@ body {
 }
 
 .mini-article__info {
+    height: 200px;
     padding: $pad;
 }
 
@@ -111,9 +112,9 @@ body {
     font-size: $main-fs + 2px;
     margin: 0;
     font-weight: 400;
-    overflow: hidden;
+    overflow: visible;
     text-overflow: ellipsis;
-    white-space: nowrap;
+  
 
     & > a {
         @include link($main-color);
@@ -152,22 +153,30 @@ body {
 }
 
 .min-article__tags {
+
+    
     & > i {
+        
         font-size: 24px;
         vertical-align: middle;
         margin-right: 5px;
+        
     }
 
     .tags__list {
+
         display: inline-block;
         margin: 0;
         padding: 0;
         list-style: none;
         vertical-align: middle;
+        
     }
 
     .tags__item {
+        
         float: left;
+        
 
         & > a {
             @include link($main-color);
